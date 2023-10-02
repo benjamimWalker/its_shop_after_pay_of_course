@@ -1,7 +1,5 @@
 FROM php:8.2-fpm-alpine
 
-RUN apk add --update npm
-
 ARG user=ben
 ARG uid=1000
 
