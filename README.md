@@ -3,7 +3,7 @@
 Primeiro clone este repositório e configure seu arquivo .env.
 
 ```
-git clone git@github.com:benjamimWalker/its_shop___after_pay_of_course___.git
+git clone git@github.com:benjamimWalker/its_shop_after_pay_of_course.git
 cp .env.example .env
 ```
 ## Configuração
